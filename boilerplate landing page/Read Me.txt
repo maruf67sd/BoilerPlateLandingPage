@@ -1,0 +1,1 @@
+PSD is downloaded from open-source, sliced and organized into html with 12-grid system with "getskeleton", google-font is used as text visual.
